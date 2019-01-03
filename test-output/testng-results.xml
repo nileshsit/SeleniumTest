@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41460" started-at="2019-01-03T15:30:50Z" finished-at="2019-01-03T15:31:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41460" started-at="2019-01-03T15:30:50Z" finished-at="2019-01-03T15:31:31Z">
+      <class name="SeleniumGrid.TestSeleniumGrid">
+        <test-method status="PASS" signature="test1()" name="test1" duration-ms="41450" started-at="2019-01-03T15:30:50Z" finished-at="2019-01-03T15:31:31Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
